@@ -4,10 +4,17 @@
     <title>Notion Systems &amp; Productivity Hub</title>
     <link>https://notion-templates-productivity-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 06:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:32:08 GMT</lastBuildDate>
     <atom:link href="https://notion-templates-productivity-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Obsidian Members Discord (Discord)</title>
+      <link>https://discord.gg/obsidian</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/notion-templates-productivity-hub/#notion-templates-productivity-hub-discord-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:32:08 GMT</pubDate>
+      <description>Newly verified community added to Notion Systems &amp; Productivity Hub: Official community Discord server for plugin developers, theme creators, and second brain builders.</description>
+    </item>
+<item>
       <title>Notion Systems &amp; Productivity Hub Initial Release</title>
       <link>https://notion-templates-productivity-hub.vercel.app/</link>
       <pubDate>Sat, 12 Sep 2026 06:05:50 GMT</pubDate>
